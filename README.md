@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sharvari+%F0%9F%91%8B;Lead+Software+Engineer;Healthcare+%7C+Mobile+%7C+Cloud;Building+things+that+matter+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2500&color=6C63FF&center=true&vCenter=true&width=650&height=60&lines=Lead+Software+Engineer+%7C+9%2B+Years;Full-stack+%7C+Mobile+%7C+Cloud)](https://git.io/typing-svg)
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharvari--divekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvari-divekar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharvari.dev-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sharvari.dev)
 [![Blog](https://img.shields.io/badge/Blog-thecoderbuddy.com-FF6584?style=for-the-badge&logo=hashnode&logoColor=white)](https://thecoderbuddy.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@thecoderbuddy-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thecoderbuddy)
@@ -13,32 +13,35 @@
 
 ---
 
-### 👩🏻‍💻 About Me
+### About Me
 
-I'm a **Lead Software Engineer** at [Lifeguard Digital Health](https://lifeguardhealth.com), building life-safety healthcare applications for 60,000+ users across North America.
+Lead Software Engineer with 9+ years across the full stack — backend systems, native mobile, and cloud infrastructure. I care about building things that are well-architected, maintainable, and actually solve problems.
 
-- 🏥 Architecting HIPAA & PIPEDA-compliant systems for mission-critical environments
-- 📱 9+ years across backend, mobile, and cloud infrastructure
-- 🎓 Former instructor @ George Brown College (Mobile Development)
-- ✍️ Creating content for developers @ [The Coder Buddy](https://thecoderbuddy.com)
-- 🎯 Currently: Distributed systems deep-dive & FAANG interview prep
+When I'm not designing systems, I'm teaching developers, contributing to open source, and building side projects.
+
+- **Architect** — distributed systems, event-driven design, Redis pub/sub, queue-based pipelines
+- **Mobile** — native iOS (Swift + MapKit) and Android (Kotlin) from zero to production
+- **Cloud & IaC** — AWS, Docker, Terraform, Ansible; reproducible and auditable infrastructure
+- **Educator** — former mobile dev instructor at George Brown College; active technical content creator
+- **Writer** — system design, dev patterns, and engineering at [The Coder Buddy](https://thecoderbuddy.com)
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
-**Backend**
+**Backend & APIs**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Mobile**
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -49,12 +52,31 @@ I'm a **Lead Software Engineer** at [Lifeguard Digital Health](https://lifeguard
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### Projects & Builds
+
+| Project | Description | Stack |
+|---|---|---|
+| **Real-time Notification Engine** | Pub/sub notification system with Redis queues, multiple delivery strategies, and horizontal scalability | Node.js · Redis · PostgreSQL |
+| **DayPath** | iOS app for location-based task management with MapKit and intelligent route optimization | Swift · MapKit |
+| **IaC Templates** | Open-source infrastructure templates distilling production DevOps patterns for the community | Terraform · Ansible · AWS |
+| **GrabABite** | End-to-end iOS food app — full UI, data persistence, and API integration | Swift |
+
+---
+
+### Content & Teaching
+
+I believe the best engineers also know how to explain things clearly. I write tutorials, create reels, and teach concepts spanning system design, mobile dev, and backend architecture.
+
+Read my writing at **[thecoderbuddy.com](https://thecoderbuddy.com)** · Follow on **[@thecoderbuddy](https://www.instagram.com/thecoderbuddy)**
+
+---
+
+### GitHub Stats
 
 <div align="center">
 
@@ -74,6 +96,6 @@ I'm a **Lead Software Engineer** at [Lifeguard Digital Health](https://lifeguard
 
 <div align="center">
 
-*"Code, Coffee, and Creativity ☕️✨"*
+*Good software is invisible. Great software is unforgettable.*
 
 </div>
