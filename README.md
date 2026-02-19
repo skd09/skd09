@@ -58,14 +58,14 @@ I'm a **Lead Software Engineer** at [Lifeguard Digital Health](https://lifeguard
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=skd09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skd09&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=skd09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skd09&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=skd09&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=skd09&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
 
