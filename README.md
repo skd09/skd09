@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2500&color=6C63FF&center=true&vCenter=true&width=650&height=60&lines=Lead+Software+Engineer+%7C+9%2B+Years;Full-stack+%7C+Mobile+%7C+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=22&pause=2500&color=6C63FF&center=true&vCenter=true&width=700&height=60&lines=Lead+Software+Engineer+%7C+9%2B+Years;Backend+%C2%B7+Mobile+%C2%B7+Cloud+%C2%B7+Open+Source)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,15 +15,44 @@
 
 ### About Me
 
-Lead Software Engineer with 9+ years across the full stack — backend systems, native mobile, and cloud infrastructure. I care about building things that are well-architected, maintainable, and actually solve problems.
+Lead Software Engineer with 9+ years building production systems across backend, native mobile, and cloud infrastructure. I care about software that's well-architected, maintainable, and ships with confidence.
 
-When I'm not designing systems, I'm teaching developers, contributing to open source, and building side projects.
+Outside of work I contribute to open source, write about engineering, and teach developers how to think in systems.
 
-- **Architect** — distributed systems, event-driven design, Redis pub/sub, queue-based pipelines
-- **Mobile** — native iOS (Swift + MapKit) and Android (Kotlin) from zero to production
-- **Cloud & IaC** — AWS, Docker, Terraform, Ansible; reproducible and auditable infrastructure
-- **Educator** — former mobile dev instructor at George Brown College; active technical content creator
-- **Writer** — system design, dev patterns, and engineering at [The Coder Buddy](https://thecoderbuddy.com)
+- 🏗️ **Systems** — distributed architectures, event-driven design, Redis pub/sub, queue-based pipelines
+- 📱 **Mobile** — native iOS (Swift + MapKit) and Android (Kotlin) from zero to production
+- ☁️ **Cloud & IaC** — AWS, Docker, Terraform, Ansible; reproducible and auditable infrastructure
+- 🌍 **Open Source** — creator of [Pearl.js](https://github.com/skd09/pearl.js), a lightweight Node.js event-routing library
+- ✍️ **Educator & Writer** — former mobile dev instructor at George Brown College; writes at [The Coder Buddy](https://thecoderbuddy.com)
+
+---
+
+### 🌟 Featured: Pearl.js
+
+> **A lightweight, declarative event-routing library for Node.js.**
+
+Pearl.js is my open source Node.js library for building clean, testable event-driven systems — without the boilerplate. Designed for teams who want the power of pub/sub without the overhead of a full message broker for in-process communication.
+
+[![Pearl.js Repo](https://img.shields.io/badge/GitHub-Pearl.js-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skd09/pearl.js)
+[![npm](https://img.shields.io/badge/npm-pearl.js-CC3534?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/pearl.js)
+
+```js
+import { Pearl } from 'pearl.js';
+
+const bus = new Pearl();
+
+bus.on('user.created', async ({ id, email }) => {
+  await sendWelcomeEmail(email);
+});
+
+bus.emit('user.created', { id: 42, email: 'hello@world.com' });
+```
+
+**Why Pearl.js?**
+- 🪶 Zero dependencies, zero magic
+- 🔁 Async-first, promise-aware event handlers
+- 🧪 Built with testability in mind
+- 📦 Works with Node.js, Express, Fastify, and more
 
 ---
 
@@ -31,10 +60,10 @@ When I'm not designing systems, I'm teaching developers, contributing to open so
 
 **Backend & APIs**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Mobile**
 
@@ -48,8 +77,9 @@ When I'm not designing systems, I'm teaching developers, contributing to open so
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-**Frontend & Data**
+**Languages & Frontend**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -61,16 +91,29 @@ When I'm not designing systems, I'm teaching developers, contributing to open so
 
 | Project | Description | Stack |
 |---|---|---|
-| **Real-time Notification Engine** | Pub/sub notification system with Redis queues, multiple delivery strategies, and horizontal scalability | Node.js · Redis · PostgreSQL |
-| **DayPath** | iOS app for location-based task management with MapKit and intelligent route optimization | Swift · MapKit |
-| **IaC Templates** | Open-source infrastructure templates distilling production DevOps patterns for the community | Terraform · Ansible · AWS |
-| **GrabABite** | End-to-end iOS food app — full UI, data persistence, and API integration | Swift |
+| ⭐ **[Pearl.js](https://github.com/skd09/pearl.js)** | Open source declarative event-routing library for Node.js. Async-first, zero dependencies. | Node.js · TypeScript |
+| 🔔 **Real-time Notification Engine** | Pub/sub notification system with Redis queues, multiple delivery strategies, and horizontal scalability | Node.js · Redis · PostgreSQL |
+| 📍 **DayPath** | iOS app for location-based task management with MapKit and intelligent route optimization | Swift · MapKit |
+| 🏗️ **IaC Templates** | Open-source infrastructure templates distilling production DevOps patterns for the community | Terraform · Ansible · AWS |
+| 🍔 **GrabABite** | End-to-end iOS food app — full UI, data persistence, and API integration | Swift |
+
+---
+
+### Open Source Contributions
+
+Beyond Pearl.js, I actively contribute to the broader ecosystem:
+
+- 🐛 Bug fixes and issue triage in Node.js ecosystem libraries
+- 📝 Documentation improvements for developer tooling projects
+- 🌍 Infrastructure templates shared with the DevOps community via IaC Templates
+
+*All public contributions visible on my [GitHub profile](https://github.com/skd09).*
 
 ---
 
 ### Content & Teaching
 
-I believe the best engineers also know how to explain things clearly. I write tutorials, create reels, and teach concepts spanning system design, mobile dev, and backend architecture.
+The best engineers know how to explain things clearly. I write tutorials, create short-form content, and teach concepts spanning system design, mobile dev, and backend architecture.
 
 Read my writing at **[thecoderbuddy.com](https://thecoderbuddy.com)** · Follow on **[@thecoderbuddy](https://www.instagram.com/thecoderbuddy)**
 
