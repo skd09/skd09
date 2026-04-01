@@ -6,8 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sharvari--divekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvari-divekar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharvari.dev-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sharvari.dev)
-[![Blog](https://img.shields.io/badge/Blog-thecoderbuddy.com-FF6584?style=for-the-badge&logo=hashnode&logoColor=white)](https://thecoderbuddy.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@thecoderbuddy-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thecoderbuddy)
+
 
 </div>
 
@@ -23,7 +22,7 @@ Outside of work I contribute to open source, write about engineering, and teach 
 - 📱 **Mobile** — native iOS (Swift + MapKit) and Android (Kotlin) from zero to production
 - ☁️ **Cloud & IaC** — AWS, Docker, Terraform, Ansible; reproducible and auditable infrastructure
 - 🌍 **Open Source** — creator of [Pearl.js](https://github.com/skd09/pearl.js), a lightweight Node.js event-routing library
-- ✍️ **Educator & Writer** — former mobile dev instructor at George Brown College; writes at [The Coder Buddy](https://thecoderbuddy.com)
+- ✍️ **Educator** — former mobile dev instructor at George Brown College
 
 ---
 
@@ -92,10 +91,10 @@ bus.emit('user.created', { id: 42, email: 'hello@world.com' });
 | Project | Description | Stack |
 |---|---|---|
 | ⭐ **[Pearl.js](https://github.com/skd09/pearl.js)** | Open source declarative event-routing library for Node.js. Async-first, zero dependencies. | Node.js · TypeScript |
+| 📰 **Changelog** | Stay ahead of tech in 10 seconds. AI-powered summaries from 50+ trusted sources — swipe through cards, read what matters, skip the noise. No account needed. | Node.js · AI · Redis |
+| 🧠 **DSA Mindmap** | Visual DSA mindmap with explanations, a system design cheatsheet, and a Java quick-reference — all in one place for engineers leveling up. | Markdown · Diagrams |
 | 🔔 **Real-time Notification Engine** | Pub/sub notification system with Redis queues, multiple delivery strategies, and horizontal scalability | Node.js · Redis · PostgreSQL |
-| 📍 **DayPath** | iOS app for location-based task management with MapKit and intelligent route optimization | Swift · MapKit |
 | 🏗️ **IaC Templates** | Open-source infrastructure templates distilling production DevOps patterns for the community | Terraform · Ansible · AWS |
-| 🍔 **GrabABite** | End-to-end iOS food app — full UI, data persistence, and API integration | Swift |
 
 ---
 
@@ -108,14 +107,6 @@ Beyond Pearl.js, I actively contribute to the broader ecosystem:
 - 🌍 Infrastructure templates shared with the DevOps community via IaC Templates
 
 *All public contributions visible on my [GitHub profile](https://github.com/skd09).*
-
----
-
-### Content & Teaching
-
-The best engineers know how to explain things clearly. I write tutorials, create short-form content, and teach concepts spanning system design, mobile dev, and backend architecture.
-
-Read my writing at **[thecoderbuddy.com](https://thecoderbuddy.com)** · Follow on **[@thecoderbuddy](https://www.instagram.com/thecoderbuddy)**
 
 ---
 
