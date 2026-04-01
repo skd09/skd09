@@ -91,7 +91,7 @@ bus.emit('user.created', { id: 42, email: 'hello@world.com' });
 | Project | Description | Stack |
 |---|---|---|
 | ⭐ **[Pearl.js](https://github.com/skd09/pearl.js)** | Open source declarative event-routing library for Node.js. Async-first, zero dependencies. | Node.js · TypeScript |
-| 📰 **Changelog** | Stay ahead of tech in 10 seconds. AI-powered summaries from 50+ trusted sources — swipe through cards, read what matters, skip the noise. No account needed. | Node.js · AI · Redis |
+| 📰 **[Changelog](https://www.thechangelog.app/)** | Stay ahead of tech in 10 seconds. AI-powered summaries from 50+ trusted sources — swipe through cards, read what matters, skip the noise. No account needed. | Node.js · AI · Redis |
 | 🧠 **DSA Mindmap** | Visual DSA mindmap with explanations, a system design cheatsheet, and a Java quick-reference — all in one place for engineers leveling up. | Markdown · Diagrams |
 | 🔔 **Real-time Notification Engine** | Pub/sub notification system with Redis queues, multiple delivery strategies, and horizontal scalability | Node.js · Redis · PostgreSQL |
 | 🏗️ **IaC Templates** | Open-source infrastructure templates distilling production DevOps patterns for the community | Terraform · Ansible · AWS |
